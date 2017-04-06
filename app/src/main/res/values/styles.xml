@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/result_view</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+</resources>
